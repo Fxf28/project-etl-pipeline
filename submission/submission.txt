@@ -1,0 +1,20 @@
+# Menjalankan skrip
+python main.py
+
+# Menjalankan unit test pada folder tests
+python -m pytest tests -v
+
+# Menjalankan test coverage pada folder tests
+coverage run -m pytest tests
+
+# Melihat laporan coverage
+coverage report
+
+# Jika ingin laporan dalam bentuk html
+coverage html
+
+# URL GOOGLE SHEETS
+https://docs.google.com/spreadsheets/d/1uO3Pkg42q63O8D4Xs97z4AX9_v8ZdYB1afTPFdu3HOY/edit?usp=sharing
+
+# URL GOOGLE COLAB
+https://colab.research.google.com/drive/1KqeKGeQ2cb6vOwcVQz3jbHeS2C43Y0z4?usp=sharing
