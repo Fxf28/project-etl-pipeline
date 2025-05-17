@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "consummate-sled-457813-t6",
-  "private_key_id": "2afb48eb3100e64c6228cce684568406d550a4e2",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLtJj6sog4I+MQ\nN7vF9S4Zfkrywa+2uhEhvlSS7k/ZI9iuzBDSzSaZoB5HLvx02pwhFr+OgVRR5o3f\nxpVBLh0/D9xRQCg1B0yzVKsMiPa7VDlEJmpIJPEWbIAA/F2SSTTF2CQQgzZVFLxD\nBIbQgiwIpCai1FH+G8ZZnlVskkvT7eEMKBFKVxCCJ6q/Y6uwhriIze5xZeJ4569Y\ncj45K0+XSF48Emf8ohO8efp+Xhok3GW+dupXCzecFaWfvJ7W+svonbeJMlnhbMcl\n0lTKn206RlCf8f4yMhx3NnuCLfN53LnYuae5kyp9oaRzYGtu1DSxOw2Y+6gNzgHs\nCPoV84PvAgMBAAECggEAAO1M9UFvCJkf93EL95x8cHnGqjBxIhBnn5ZS18BkPxMs\nfoqU8PKPdEkhbo4l0ZGwM4mWJwxA9SnUrTPRkMckIcqFW6KatQ/lLtFzUKN6KDnU\nApuJG/c+p77LcZAwA158tGLxsoRdyQxUKLVt/ty7Q0oLhcqK9mv4y9XGszhquQ5G\nKQL6kknxZ4bjlXP59WT4X9ORC4qdfFYRPSkiYNImaVUlkGlKDoAcSBEJ+aUy5rs6\nLEuhlggH6tQH1aCZd7pkgRaxbA9NavO62MjoUtoPl0zZMiV+H+dlD0c+Hgq69zR5\nE+iYzOm8N8fUIt/itxJ3zVTnjniJoWVT1qKqXlKkiQKBgQD7mijSbMkw6Biyagb8\nXBBPjHZPkTAWnM87+TLvzxhi3ew9eFfQbWy9mDotbwWpBaKTWWPCcHQQb27N5UWX\nh/jyF2eY5J12LbENouGDCTQ1rfZCXQetRRN+N9Ys6uWxJ6msbYVTmqKsl/zgFhFa\nG+RjcnywtUiXW0WSnjBO6bkHpwKBgQDPRB2HkkSI/KhS9TKQs2DliqctvR1HUiBd\nEJMK2GK0sL2WaAiw3umKBv7G+033uyPK149fXaHPEiylMquMDVcMgmiFJ4ivCBJU\nrff+QmI86BjAIp9A2mkFTRpY00Pmu8NdIYqoGpKEJNwloopeiydd+aBt2pr1G4/i\nrJ+y+4aqeQKBgQDrB2LCzmRSjz0izPChpM6HwMp0IUgul2TuvSbb5TT+hhg8g8Jk\nLRO7OAyAjIlZDq6Dvqj15V5GTBHRvC56EsZ2P27C4CxHTP9roY/PfDWNP2gfLhAR\nx8khyr8DTpoqFsblD5nQM09qsr/CBFtJNWzviO75kx6wZM5k2+h8jtANWQKBgBCl\n1/lbtkWKhbqkFzuoLNBDIsp5tjBUWGUhP65PUx5QU+oQ0SHjxb5gcXZqGQkc7vML\n/WgbjTOkshFS0JSfPa6zitGnK0Nj0pUapCC4FEvwGIzWOxRqdqUGXGdmEL4ntrl0\nSD7YY4xZqZUcSSDu7GqP8mLgfDHT1OrQEsO9kEOBAoGARbcoIlZuuvDo6XNQ5R8g\nFMW9OzT6Xw1mScFGC9ALQDrvTzfwGvjuwI8JPhbUClZl06qRsBYiMnEoCpbfhACD\nLujKWZ3E5ndi0J3t8v/TK1aEIWKyEdsDqW+0j0cJOpKpsFyl3zkzl8ruEp/je/Rb\n/gYMhtZd1O/QmZVuLKpkRls=\n-----END PRIVATE KEY-----\n",
-  "client_email": "googlesheets-submission-etl@consummate-sled-457813-t6.iam.gserviceaccount.com",
-  "client_id": "116030975341909424667",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheets-submission-etl%40consummate-sled-457813-t6.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+// API KEY GOOGLE SHEETS
